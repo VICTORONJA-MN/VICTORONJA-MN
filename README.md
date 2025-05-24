@@ -2,7 +2,7 @@
 
 > 🛠️ Forjando metal de día, tirando codigo de noche...
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 ```js
 const Victor = {
